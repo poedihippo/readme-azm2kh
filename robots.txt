@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://poedihippo.github.io/readme-azm2kh/sitemap.xml
